@@ -1,0 +1,11 @@
+Code transformations for scopes paper in order to evaluate energy efficiency and software quality.
+
+Benchmark suites:
+
+- Rodinia (http://lava.cs.virginia.edu/Rodinia/download_links.htm)
+
+Che, Shuai, et al. "Rodinia: A benchmark suite for heterogeneous computing." Workload Characterization, 2009. IISWC 2009. IEEE International Symposium on. Ieee, 2009.
+
+- MiBench (http://vhosts.eecs.umich.edu/mibench/)
+
+Guthaus, Matthew R., et al. "MiBench: A free, commercially representative embedded benchmark suite." Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop on. IEEE, 2001.
